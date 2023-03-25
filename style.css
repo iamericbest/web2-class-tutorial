@@ -1,0 +1,17 @@
+.form-page{
+    background-color:  hsl(0, 100%, 74%) ;
+    height: 100vh;
+}
+.col-left{
+    margin-top: 7rem;
+}
+.claim-btn{
+    background-color: hsl(154, 59%, 51%) ;
+}
+.right-card{
+    border-radius: 1rem;
+}
+
+.try-btn{
+    background-color:  hsl(248, 32%, 49%);
+}
